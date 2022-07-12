@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/54748438/150927679-e923a570-7c92-465f-
 # How to see the App ? 
 1. Clone the repository 
 ```sh
-git clone https://github.com/yogita10/Food_Delivery_App.git
+git clone https://github.com/yogita10/todos1o1.git
 ```
 2. Go to the cloned folder
 ```sh
